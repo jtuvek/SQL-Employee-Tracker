@@ -1,3 +1,6 @@
+-- Drop existing tables if they exist
+DROP TABLE IF EXISTS department, role, employee;
+
 -- Create database
 CREATE DATABASE employee_tracker_db;
 
