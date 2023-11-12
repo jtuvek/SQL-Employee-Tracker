@@ -54,15 +54,15 @@ Developed for business owners, this employee tracker allows users to view and ma
 
 ## Usage
 
-    Follow the on-screen prompts to navigate through the application's menu and perform various actions such as viewing, adding, and updating data.
+Follow the on-screen prompts to navigate through the application's menu and perform various actions such as viewing, adding, and updating data.
 
 ## Database Schema
 
-    The database schema includes three tables: department, role, and employee. Refer to the provided Database Schema in the project description.
+The database schema includes three tables: department, role, and employee. Refer to the provided Database Schema in the project description.
 
 ## Walkthrough Video
 - [Video Link]()
 
 ## Contributing
 
-    Contributions are welcome! 
+Contributions are welcome! 
