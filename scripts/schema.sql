@@ -6,7 +6,7 @@ USE employee_tracker_db;
 
 -- Create tables
 CREATE TABLE department (
-  id INT PRIMARY KEY,
+  id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(30) NOT NULL
 );
 
