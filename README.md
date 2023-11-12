@@ -61,7 +61,7 @@ Follow the on-screen prompts to navigate through the application's menu and perf
 The database schema includes three tables: department, role, and employee. Refer to the provided Database Schema in the project description.
 
 ## Walkthrough Video
-- [Video Link]()
+- [Video Link](https://drive.google.com/file/d/1EUB5r9RfjNaJrhIcWsjxCGec3cJMGcjZ/view)
 
 ## Contributing
 
