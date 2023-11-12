@@ -1,3 +1,6 @@
+-- Drop the existing database if it exists
+DROP DATABASE IF EXISTS employee_tracker_db;
+
 -- Drop existing tables if they exist
 DROP TABLE IF EXISTS department, role, employee;
 
